@@ -1,0 +1,3 @@
+use blog
+db.createCollection("users")
+db.createCollection("passages")
